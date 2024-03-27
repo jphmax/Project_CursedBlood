@@ -17,22 +17,22 @@ public class InputScript : MonoBehaviour
 
     void OnKeyboardMouseSenseBtnPerformed(InputAction.CallbackContext context)
     {
-        Debug.Log("KeyboardMouseSenseBtn");
+        //Debug.Log("KeyboardMouseSenseBtn");
     }
 
     void OnControllerSenseBtnPerformed(InputAction.CallbackContext context)
     {
-        Debug.Log("ControllerSenseBtn");
+        //Debug.Log("ControllerSenseBtn");
     }
 
     void OnMouseMoveSensePerformed(InputAction.CallbackContext context)
     {
-        Debug.Log("MouseMoveSense");
+        //Debug.Log("MouseMoveSense");
     }
 
     void OnControllerAnalogSensePerformed(InputAction.CallbackContext context)
     {
-        Debug.Log("ControllerAnalogSense");
+        //Debug.Log("ControllerAnalogSense");
     }
 
     private void Update()
