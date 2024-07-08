@@ -1,3 +1,6 @@
+using System;
+using Cinemachine;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
